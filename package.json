@@ -1,0 +1,14 @@
+{
+  "name": "electron-app",
+  "version": "1.0.0",
+  "description": "First electron app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Andy Nguyen",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^23.1.3"
+  }
+}
